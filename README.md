@@ -1,1 +1,9 @@
 # vector_nlp_symposium_2020
+
+## Setup
+
+1. Clone the repository into a local drive with `git clone https://github.com/maxmatical/vector_nlp_symposium_2020.git`
+2. Open https://colab.research.google.com/github/maxmatical/fast.ai/blob/master/full_twitter_sentiment_transformers.ipynb
+3. Click the `Copy to Drive` to save a copy of the notebook to your google colab
+4. Upload `test1.csv` to the colab notebook
+5. Run the cells with `Shift + Enter` 
