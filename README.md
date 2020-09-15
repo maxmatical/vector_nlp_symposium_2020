@@ -8,4 +8,5 @@
 ![save_to_drive](https://github.com/maxmatical/vector_nlp_symposium_2020/blob/master/images/save_copy_to_drive.png)
 4. Upload `test1.csv` to the colab notebook
 ![upload](https://github.com/maxmatical/vector_nlp_symposium_2020/blob/master/images/upload_csv.png)
-5. Run the cells with `Shift + Enter` 
+5. Go to `Runtime` -> `Change runtime type`. Under `Hardware Accelerator`, select the `GPU` option and click save
+6. Run the cells with `Shift + Enter` 
